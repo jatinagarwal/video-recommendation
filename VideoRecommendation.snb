@@ -440,7 +440,7 @@
       "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "docVect.count()\n//&& item._1.length > 3\n/* Selecting features or terms that will represent whole corpus of videos */\nval corpusVocab = docVect.filter(item => item._2 > 3).count()",
+    "source" : "  docVect.count()\n//&& item._1.length > 3\n/* Selecting features or terms that will represent whole corpus of videos */\nval corpusVocab = docVect.filter(item => item._2 > 3).count()",
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
