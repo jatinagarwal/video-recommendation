@@ -10,6 +10,7 @@ https://s3.eu-central-1.amazonaws.com/spark-notebook/zip/spark-notebook-0.6.3-sc
 #### Unzipping download zip file
 unzip spark-notebook-0.6.3-scala-2.11.7-spark-1.6.0-hadoop-2.2.0-with-hive-with-parquet.zip -d spark-notebook-0.6.3-scala-2.11.7-spark-1.6.0-hadoop-2.2.0-with-hive-with-parquet
 
+
 #### Change directory to notebook directory
 cd /path/spark-notebook-0.6.3-scala-2.11.7-spark-1.6.0-hadoop-2.2.0-with-hive-with-parquet
 
